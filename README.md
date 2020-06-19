@@ -11,15 +11,15 @@ Rest in Peace.
 
 ## Project 4 Data Structure and Algothrim in Python
 ### Data Structure: 
-*single link list
-*double link list
-*binary tree  
+* single link list
+* double link list
+* binary tree  
 ### Algorithm: 
-*bubble sort
-*quick sort
-*insertion sort
-*selection sort
-*binary search 
+* bubble sort
+* quick sort
+* insertion sort
+* selection sort
+* binary search 
 
 
 
