@@ -9,17 +9,21 @@ Use Python to implement machine learning models from scratch, covering cost func
 For my idol Kobe and his daughter Gianna.  
 Rest in Peace.
 
-## Project 4 Data Structure and Algothrim in Python
-### Data Structure: 
-* single link list
-* double link list
-* binary tree  
-### Algorithm: 
-* bubble sort
-* quick sort
-* insertion sort
-* selection sort
-* binary search 
 
+## My-Data-Structure-and-Algorithm
+Data Structure and Algorithm in Python.  
+* Data Structures:  
+  * Single Link List  
+  * Double Link List
+  * Queue
+  * Binary Tree  
+  
+* Algorithms:  
+  * Bubble Sort  
+  * Insertion Sort
+  * Quick Sort  
+  * Merge Sort  
+  * Sequence Search 
+  * Binary Search
 
 
